@@ -1,0 +1,1 @@
+Bidirectional pointers, singly vs doubly comparison

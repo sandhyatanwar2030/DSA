@@ -1,0 +1,1 @@
+LIFO, 3 implementations, common problems
